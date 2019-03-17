@@ -1,6 +1,0 @@
----
-
-classes:
-  - wednesday
-
-wednesday::packages::version: '2.3.4'

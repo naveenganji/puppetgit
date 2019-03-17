@@ -1,8 +1,0 @@
----
-
-classes:
-  - wednesday
-  - wednesday::service
-
-
-wednesday::param::version: '1.2.3'
