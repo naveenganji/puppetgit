@@ -1,0 +1,8 @@
+---
+classes:
+  - example
+  - thursday
+  - wednesday
+  - roles::web_java
+
+wednesday::packages::version: 3.0.2-21.el7
